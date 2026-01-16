@@ -1,0 +1,12 @@
+﻿  Area2D.cpp
+  GameObject.cpp
+  Main.cpp
+D:\Kods\C++\GameEngine\Engine\Source\Main.cpp(63,28): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  ResourceManager.cpp
+  Shader.cpp
+  SpriteRenderer.cpp
+  Texture.cpp
+  Game.cpp
+  Создание кода...
+  glad.c
+  GameEngine.vcxproj -> D:\Kods\C++\GameEngine\x64\Debug\GameEngine.exe
