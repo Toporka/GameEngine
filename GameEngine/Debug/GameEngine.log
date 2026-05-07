@@ -1,0 +1,30 @@
+﻿  Area2D.cpp
+  EngineProperties.cpp
+  GameObject.cpp
+  Main.cpp
+D:\Kods\C++\GameEngine\Engine\Source\Main.cpp(69,28): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  ResourceManager.cpp
+  Shader.cpp
+  SpriteRenderer.cpp
+  Texture.cpp
+  Scene.cpp
+  MainScene.cpp
+  TextRenderer.cpp
+D:\Kods\C++\GameEngine\Engine\Source\TextRenderer.cpp(73,33): warning C4838: Преобразование из "FT_Pos" в "unsigned int" требует сужающего преобразования.
+  Создание кода...
+  glad.c
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwInit в функции _main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwTerminate в функции _main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwWindowHint в функции _main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwCreateWindow в функции _main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwWindowShouldClose в функции _main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwSetWindowShouldClose в функции "void __cdecl key_callback(struct GLFWwindow *,int,int,int,int)" (?key_callback@@YAXPAUGLFWwindow@@HHHH@Z).
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwSetFramebufferSizeCallback в функции _main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwPollEvents в функции _main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwSetKeyCallback в функции _main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwGetTime в функции _main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwMakeContextCurrent в функции _main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwSwapBuffers в функции _main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwGetProcAddress в функции _main.
+D:\Kods\C++\GameEngine\vendor\lib\glfw3.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+D:\Kods\C++\GameEngine\Debug\GameEngine.exe : fatal error LNK1120: неразрешенных внешних элементов: 13
