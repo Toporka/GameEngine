@@ -1,6 +1,17 @@
-﻿  Main.cpp
-D:\Kods\C++\GameEngine\Engine\Source\Main.cpp(67,28): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+﻿  AnimationManager.cpp
+  Area2D.cpp
+  EngineProperties.cpp
+  GameObject.cpp
+  Main.cpp
+D:\Kods\RepositoriesGitHub\GameEngine\Engine\Source\Main.cpp(67,28): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  ResourceManager.cpp
+  Shader.cpp
+  SpriteRenderer.cpp
+  Texture.cpp
   Scene.cpp
   MainScene.cpp
+  TextRenderer.cpp
+D:\Kods\RepositoriesGitHub\GameEngine\Engine\Source\TextRenderer.cpp(73,33): warning C4838: Преобразование из "FT_Pos" в "unsigned int" требует сужающего преобразования.
   Создание кода...
-  GameEngine.vcxproj -> D:\Kods\C++\GameEngine\x64\Debug\GameEngine.exe
+  glad.c
+  GameEngine.vcxproj -> D:\Kods\RepositoriesGitHub\GameEngine\x64\Debug\GameEngine.exe

@@ -1,12 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Kods\\C\u002B\u002B\\GameEngine\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Kods\\RepositoriesGitHub\\GameEngine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49AC9B9A-9398-4A2A-AA68-28D0B4F930E5}|GameEngine.vcxproj|D:\\Kods\\RepositoriesGitHub\\GameEngine\\Engine\\Source\\Scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49AC9B9A-9398-4A2A-AA68-28D0B4F930E5}|GameEngine.vcxproj|solutionrelative:Engine\\Source\\Scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AC9B9A-9398-4A2A-AA68-28D0B4F930E5}|GameEngine.vcxproj|D:\\Kods\\RepositoriesGitHub\\GameEngine\\Engine\\Include\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49AC9B9A-9398-4A2A-AA68-28D0B4F930E5}|GameEngine.vcxproj|solutionrelative:Engine\\Include\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Scene.cpp",
+              "DocumentMoniker": "D:\\Kods\\RepositoriesGitHub\\GameEngine\\Engine\\Source\\Scene.cpp",
+              "RelativeDocumentMoniker": "Engine\\Source\\Scene.cpp",
+              "ToolTip": "D:\\Kods\\RepositoriesGitHub\\GameEngine\\Engine\\Source\\Scene.cpp*",
+              "RelativeToolTip": "Engine\\Source\\Scene.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-13T12:26:26.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Scene.h",
+              "DocumentMoniker": "D:\\Kods\\RepositoriesGitHub\\GameEngine\\Engine\\Include\\Scene.h",
+              "RelativeDocumentMoniker": "Engine\\Include\\Scene.h",
+              "ToolTip": "D:\\Kods\\RepositoriesGitHub\\GameEngine\\Engine\\Include\\Scene.h*",
+              "RelativeToolTip": "Engine\\Include\\Scene.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-13T12:26:18.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

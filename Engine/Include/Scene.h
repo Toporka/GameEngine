@@ -12,8 +12,6 @@ enum SceneState {
 
 class Scene
 {
-private:
-    static std::vector<Scene*> listScenes;
 public:
     SceneState    State;
 
@@ -22,9 +20,6 @@ public:
 
     virtual void Init() = 0;
     virtual void Update(float delta) = 0;
-
-    static void callAllInit();
-    static void callAllUpdate(float delta);
 };
 
 class SceneRegistry 

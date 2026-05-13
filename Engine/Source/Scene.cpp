@@ -2,29 +2,11 @@
 
 //SpriteRenderer* Renderer;
 
-std::vector<Scene*> Scene::listScenes;
 using Creator = std::unique_ptr<Scene>(*)();
 
-Scene::Scene() : State(SCENE_ACTIVE)
-{
-    Scene::listScenes.push_back(this);
-}
-Scene::~Scene()
-{
-    auto it = std::find(listScenes.begin(), listScenes.end(), this);
-    if (it != listScenes.end()) listScenes.erase(it);
+Scene::Scene() : State(SCENE_ACTIVE) {}
+Scene::~Scene() {}
 
-    //delete Renderer;
-}
-
-void Scene::callAllInit()
-{
-    for (auto scene : Scene::listScenes) scene->Init();
-}
-void Scene::callAllUpdate(float delta)
-{
-    for (auto scene : Scene::listScenes) scene->Update(delta);
-}
 void SceneRegistry::Register(Creator creator)
 {
     GetCreators().emplace_back(creator);
