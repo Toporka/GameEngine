@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\Kods\\RepositoriesGitHub\\GameEngine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{49AC9B9A-9398-4A2A-AA68-28D0B4F930E5}|GameEngine.vcxproj|D:\\Kods\\RepositoriesGitHub\\GameEngine\\Engine\\Source\\Scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{49AC9B9A-9398-4A2A-AA68-28D0B4F930E5}|GameEngine.vcxproj|solutionrelative:Engine\\Source\\Scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{49AC9B9A-9398-4A2A-AA68-28D0B4F930E5}|GameEngine.vcxproj|D:\\Kods\\RepositoriesGitHub\\GameEngine\\Game\\Source\\MainScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49AC9B9A-9398-4A2A-AA68-28D0B4F930E5}|GameEngine.vcxproj|solutionrelative:Game\\Source\\MainScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49AC9B9A-9398-4A2A-AA68-28D0B4F930E5}|GameEngine.vcxproj|D:\\Kods\\RepositoriesGitHub\\GameEngine\\Engine\\Include\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{49AC9B9A-9398-4A2A-AA68-28D0B4F930E5}|GameEngine.vcxproj|solutionrelative:Engine\\Include\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AC9B9A-9398-4A2A-AA68-28D0B4F930E5}|GameEngine.vcxproj|D:\\Kods\\RepositoriesGitHub\\GameEngine\\Engine\\Source\\TextRenderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49AC9B9A-9398-4A2A-AA68-28D0B4F930E5}|GameEngine.vcxproj|solutionrelative:Engine\\Source\\TextRenderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AC9B9A-9398-4A2A-AA68-28D0B4F930E5}|GameEngine.vcxproj|D:\\Kods\\RepositoriesGitHub\\GameEngine\\Engine\\Include\\TextRenderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49AC9B9A-9398-4A2A-AA68-28D0B4F930E5}|GameEngine.vcxproj|solutionrelative:Engine\\Include\\TextRenderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AC9B9A-9398-4A2A-AA68-28D0B4F930E5}|GameEngine.vcxproj|D:\\Kods\\RepositoriesGitHub\\GameEngine\\Engine\\Source\\Scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49AC9B9A-9398-4A2A-AA68-28D0B4F930E5}|GameEngine.vcxproj|solutionrelative:Engine\\Source\\Scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +35,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainScene.cpp",
+              "DocumentMoniker": "D:\\Kods\\RepositoriesGitHub\\GameEngine\\Game\\Source\\MainScene.cpp",
+              "RelativeDocumentMoniker": "Game\\Source\\MainScene.cpp",
+              "ToolTip": "D:\\Kods\\RepositoriesGitHub\\GameEngine\\Game\\Source\\MainScene.cpp",
+              "RelativeToolTip": "Game\\Source\\MainScene.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-13T14:27:12.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TextRenderer.cpp",
+              "DocumentMoniker": "D:\\Kods\\RepositoriesGitHub\\GameEngine\\Engine\\Source\\TextRenderer.cpp",
+              "RelativeDocumentMoniker": "Engine\\Source\\TextRenderer.cpp",
+              "ToolTip": "D:\\Kods\\RepositoriesGitHub\\GameEngine\\Engine\\Source\\TextRenderer.cpp",
+              "RelativeToolTip": "Engine\\Source\\TextRenderer.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-13T14:26:58.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextRenderer.h",
+              "DocumentMoniker": "D:\\Kods\\RepositoriesGitHub\\GameEngine\\Engine\\Include\\TextRenderer.h",
+              "RelativeDocumentMoniker": "Engine\\Include\\TextRenderer.h",
+              "ToolTip": "D:\\Kods\\RepositoriesGitHub\\GameEngine\\Engine\\Include\\TextRenderer.h",
+              "RelativeToolTip": "Engine\\Include\\TextRenderer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-13T14:26:53.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Scene.cpp",
               "DocumentMoniker": "D:\\Kods\\RepositoriesGitHub\\GameEngine\\Engine\\Source\\Scene.cpp",
               "RelativeDocumentMoniker": "Engine\\Source\\Scene.cpp",

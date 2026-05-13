@@ -7,7 +7,7 @@
 
 TextRenderer::TextRenderer(unsigned int width, unsigned int height)
 {
-    this->TextShader = ResourceManager::LoadShader("TextVertex.shader", "TextFragment.shader", nullptr, "text");
+    this->TextShader = ResourceManager::LoadShader("Engine/Shaders/TextVertex.shader", "Engine/Shaders/TextFragment.shader", nullptr, "text");
     this->TextShader.SetMatrix4("projection", glm::ortho(0.0f, static_cast<float>(width), static_cast<float>(height), 0.0f), true);
     this->TextShader.SetInteger("text", 0);
     
